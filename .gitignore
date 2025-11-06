@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow source files (.cpp, .h) and README.md
+!*.cpp
+!*.h
+!README.md
+
+# Ignore files without extensions (likely executables)
+*/*
+
+# Allow all directories to be tracked
+!*/
+
+
